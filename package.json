@@ -1,0 +1,24 @@
+{
+  "name": "tch-command-livereload",
+  "version": "1.0.0",
+  "description": "适用于专题livereload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TcDujia/tch-command-livereload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TcDujia/tch-command-livereload/issues"
+  },
+  "homepage": "https://github.com/TcDujia/tch-command-livereload#readme",
+  "devDependencies": {
+    "express": "^4.13.3",
+    "webpack": "^1.12.9",
+    "webpack-livereload-plugin": "^0.4.0"
+  }
+}
