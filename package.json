@@ -16,9 +16,11 @@
     "url": "https://github.com/TcDujia/tch-command-livereload/issues"
   },
   "homepage": "https://github.com/TcDujia/tch-command-livereload#readme",
+  "dependencies": {
+	"webpack": "^1.12.9"
+  },
   "devDependencies": {
     "express": "^4.13.3",
-    "webpack": "^1.12.9",
     "webpack-livereload-plugin": "^0.4.0"
   }
 }
